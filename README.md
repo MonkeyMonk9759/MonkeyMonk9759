@@ -6,6 +6,9 @@
 ---
 
 ## 🔥 About Me
+
+Hey there! I'm Rahul, a cybersecurity enthusiast who thrives on tackling digital security challenges. Ever since I discovered my passion for ethical hacking and cyber defense, I've been on a mission to create a safer online world. I love staying ahead of emerging threats, experimenting with security tools, and diving deep into research that makes a real impact.
+
 🔍 Passionate about **cybersecurity, ethical hacking, and security research**. I thrive on exploring new technologies, building innovative security solutions, and enhancing digital protection strategies.  
 
 📌 My mission is to **make cyberspace safer** by identifying threats, mitigating vulnerabilities, and developing robust security measures. I am constantly learning, researching, and implementing new cybersecurity techniques.
@@ -49,7 +52,8 @@
 ---
 
 ## 🎓 **Education**
-🎓 **B.Tech in Computer Science & Cybersecurity** - Jain University, Bangalore *(2020 - 2024)*  
+🏫 **High School** - Genesis International School, Hyderabad  *(2007- 2017)*
+🎓 **Graduation** - B.Tech in Computer Science Engineering (Cybersecurity Specialisation)** - Jain University, Bangalore *(2020 - 2024)*  
 🏫 **Higher Secondary Education** - Sri Chaitanya Junior Kalasala, Hyderabad *(2017 - 2019)*  
 
 ---
@@ -73,7 +77,7 @@
 
 ## 🚀 **Cybersecurity Projects & Research**
 ### 🔹 **Personalized Security Checklist** *(March 2023)*
-🔹 Developed an easy-to-use, step-by-step **cybersecurity checklist** to assist students and professionals in securing their **digital footprint**.
+🔹 Developed an easy-to-use, step-by-step **cybersecurity checklist** to assist students and professionals in securing their **digital footprint**..
 
 ### 🔹 **Redox Firewall** *(November 2021)*
 🔹 Designed a **custom firewall solution** to enhance **network security** and prevent cyber intrusions.
@@ -84,12 +88,16 @@
 ---
 
 ## 📬 **Let's Connect & Collaborate!**
+
 📧 **Email:** [rahulsanjaysujay@gmail.com](mailto:rahulsanjaysujay@gmail.com)  
-📍 **Location:** Canberra, Australia  
-📞 **Phone:** +61 438 302 775  
+
+📍 **Location:** Canberra, Australia | Bengaluru, India
+
+📞 **Phone:** +61 438 302 775 | +91 961 881 7050 
+
 🌐 **Follow me on:**  
-[![LinkedIn](https://www.linkedin.com/in/rahul-sanjay-sujay-5492b1194/)  
-[![GitHub](https://github.com/MonkeyMonk9759)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sanjay-sujay-5492b1194/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonkeyMonk9759)  
 
 ---
 
